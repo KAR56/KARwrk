@@ -9,5 +9,6 @@ Created on Mon Oct 21 12:41:42 2019
 #!/bin/bash
 # Kyle A. Rose
 echo "Hello, World"
+echo "listing file in current directory, $PWD"
 ls  # list files
-chmod +x helloScript
+$ chmod +x helloScript
