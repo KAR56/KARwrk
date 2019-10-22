@@ -1,4 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 21 12:41:42 2019
+
+@author: KyleRose
+"""
+
 #!/bin/bash
-echo "Hello, $USER. I wish to list some files of yours"
-echo "listing files in current directory, $PWD"
-ls # list files
+# Kyle A. Rose
+echo "Hello, World" $PWD
+1s  # list files
