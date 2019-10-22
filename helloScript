@@ -9,4 +9,4 @@ Created on Mon Oct 21 12:41:42 2019
 #!/bin/bash
 # Kyle A. Rose
 echo "Hello, World" $PWD
-1s  # list files
+ls  # list files
