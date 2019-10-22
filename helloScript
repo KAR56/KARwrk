@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "Hello, World" $PWD
+echo "Hello, $USER. I wish to list some files of yours"
+echo "listing files in current directory, $PWD"
 ls # list files
